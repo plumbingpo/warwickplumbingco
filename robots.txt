@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://warwickplumbingco.com/sitemap.xml
